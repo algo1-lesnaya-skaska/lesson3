@@ -10,7 +10,7 @@ https://yadi.sk/i/oj1jZ2D3Gmos_w
 
 Scratch lesson3
 
-
+https://yadi.sk/d/EwWW04Hus8ofeQ
 
 Scratch3 cards
 
