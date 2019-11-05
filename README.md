@@ -1,22 +1,23 @@
+
 <h2>Scratch</h2
-  
-Scratch 3 : https://scratch.mit.edu/download
 
-https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop%20Setup%203.6.0.exe
-
-Sarcht 3 Graph Editor
-
-https://yadi.sk/i/oj1jZ2D3Gmos_w
-
-Scratch lesson3
+Scratch урок 3 
 
 https://yadi.sk/d/EwWW04Hus8ofeQ
 
-Scratch3 cards
+Scratch 3  ссылка на загрузку : https://scratch.mit.edu/download
+
+https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop%20Setup%203.6.0.exe
+
+Sarcht 3 Описание графического редактора
+
+https://yadi.sk/i/oj1jZ2D3Gmos_w
+
+Scratch3 карточки
 
 https://resources.scratch.mit.edu/www/cards/ru/scratch-cards-all.pdf
 
-Scratch 3 manual
+Scratch 3 общая инструкция
 
 https://yadi.sk/i/XqYwUpSRrSmsqg
 
